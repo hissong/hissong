@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 💌 SNS LIST 💌
-<img src="https://img.shields.io/badge/GMAIL-FF6347?style=flat&logo=EA4335&logoColor=white"/>
+
