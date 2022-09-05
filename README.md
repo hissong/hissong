@@ -14,3 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+💌 SNS LIST 💌
+<img src="https://img.shields.io/badge/GMAIL-FF6347?style=flat&logo=EA4335&logoColor=white"/>
